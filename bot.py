@@ -2,7 +2,7 @@ import subprocess
 import telebot
 from telebot import types
 
-TOKEN = "9099870218:AAGvAjlOdY-DU_3S9aAxfegPsT6Y0o7lCNA"
+TOKEN = "9002649401:AAEXmg560ZEsQBuqa3-BxigLa_avrfU62k4"
 bot = telebot.TeleBot(TOKEN)
 
 user_data = {}
